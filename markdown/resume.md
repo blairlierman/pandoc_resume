@@ -1,100 +1,114 @@
-Johnny Coder
-============
+# Blair Lierman
 
-----
+---
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> blairlierman@gmail.com • 425-770-1187\
+> [linkedin.com/in/blairlierman](https://www.linkedin.com/in/blairlierman) • [github.com/blairlierman](https:/github.com/blairlierman)
 
-----
+---
 
-Education
----------
+## Profile
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Software Engineer** with over 15 years of hands-on experience developing software using TypeScript and C#. Able to manage agile projects with focus on quality & excellent work ethic.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+## Technology Experience
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+- Programming and Scripting Languages: TypeScript/JavaScript, C#, SQL
+- JavaScript Libraries: Angular, NgRx, Jest
+- Primary Programming Software: Visual Studio Code using GitHub
+- Other Development Tools: Nx, git, Postman
 
-    *Minor: Awesomeology*
+## Technical Work Experience
 
-Experience
-----------
+**Software Engineer, Cisco Systems, January 2022 - Present**
 
-**Your Most Recent Work Experience:**
+- Frontend Developer on the Partner Experience Cloud (PX Cloud) project as part of Customer and Partner Experience team
+- Enhanced and improved the Partner Offers section with new features, converted unit tests from Jasmine to Jest, and revised table view with updated version and filters
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Application Developer and Lead, Washington State University Foundation, Aug. 2014 - Jan. 2022**
 
-* First item
+- Developer and Agile Project Manager for all projects, organizing sprints, performing development tasks and managing communications with stakeholders.
+- Moved to Agile methodology, based on Scrum, with daily standups & sprint planning.
+- Migrated all new web applications to the cloud in Microsoft Azure.
+- Primary developer on updated Online Giving site (https://foundation.wsu.edu/give).
+- Reviewed all changes from Application Development team via pull requests.
+- Primary maintainer on legacy web apps, Contact Report & Gift Use Agreement.
+- Aligned projects with best practices, moving to Azure DevOps and git for source control, bug tracking, continuous integration/deployment and code reviews.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Software Engineer, VendNovation, October 2011 – August 2014**
 
-**That Other Job You Had**
+- Developed custom UI for touchscreen machines opening a new market of devices.
+- Maintained JavaScript admin app to configure machines using touchscreen PC.
+- Made significant improvements to company’s current generation of touchscreen software that controlled lockers, making it a highly marketable resource.
+- Tested HW/SW for 20+ custom machines for highest quality before shipping to client
+- Added semi-automated testing methods to reduce testing time by as much as 75%.
 
-Also with a short description.
+**Build Engineer, Microsoft (Contract), Feb. 2008 – Oct. 2011**
 
-Technical Experience
---------------------
+- Created tools to automate branch merging and conflicts to save 100+ hours of effort.
+- Development of new tools to support build process in Batch script and PowerShell.
+- Troubleshooting and responding to issues with daily official and developer builds.
+- Ensured successful release of 25+ builds every day using Build.exe and MSBuild
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Systems Admin / Jr. Software Engineer, Saltmine, January 2007 – February 2008**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+- Developed fixes and features for major Web application with C# and SQL Server
+- Worked closely with Lead Developer to ensure consistent code and best practices.
+- Managed duties as System Administrator in addition to development work.
+- Responded to Help Desk requests as tier 1 support for infrastructure.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Deployment Engineer / Intern, Onyx Software, September 2004 – August 2006**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+- Supervisor of 2 deployment interns for 4 ongoing projects
+- Updated server deployments, oversaw creation of virtual hard drives for distribution.
+- Managed creation and updating of extensive documentation.
+- Oversaw installation/troubleshooting of 15+ servers for Quality Assurance Test team.
+- Ran test cases against the server software and updated deployment documentation.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+## Notable Development Projects
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Workday API Integration
+: Developer / Project Manager
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Protocols and Procedures Form
+: Lead Developer / Project Manager
 
-[ref]: https://github.com/githubuser/superlongprojectname
+    - Written in JavaScript using the Ember.js framework.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Secure Data Uploader
+:Lead Developer - Ember.js using JavaScript
+Online Giving replacement
+: Primary Developer
 
-* Human Languages:
+- Written in PHP and JavaScript in WSU Foundation’s existing WordPress site.
+- New site is responsive and integrated into main WSU Foundation website.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Contact Report & Gift Use Agreement
+: Primary Developer - jQuery Mobile
 
-* Random tidbit
+- Built in Microsoft LightSwitch, backed by ASP.NET Web API written in C#.
+- Replaced the hard-to-use digital forms and improved processes for our users.
+- Touchscreen Vending Machine interface - Primary Developer
+  - WebSocket API for a custom UI to control an attached vending machine.
+  - JavaScript admin page to manage machine settings via touchscreen or mouse.
+- Touchscreen Locker application - Windows CE in C# (Compact .NET)
+  - Improved on-screen keyboard for entering email addresses and other data.
+- Modular Pre-Checkin Validation client – WinForms app in C# (.NET 3.5)
+- Bug System Module for Pre-Checkin client – Primary Developer – C#
+- Log Viewer – Primary Developer – WPF app in C#
 
-* Other sort of impressive-sounding thing you did
+## Independent Projects
 
-----
+- **Farming Game Net Asset Calculator** – installable web app
+  - A utility to help calculate scores for The Farming Game board game.
+  - A progressive web app written in TypeScript using Angular.
+  - https://github.com/blairlierman/farming-game-calc
+- **Sacred Text Lite** – web app
+  - An app that compares various religious texts in related topics
+  - A web app written in TypeScript using Angular.
+  - https://github.com/blairlierman/sacred-text-web
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+## Education
+
+**Bachelor of Arts - Computer Science**;
+Seattle Pacific University (Seattle, WA)
