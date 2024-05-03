@@ -76,26 +76,34 @@ Protocols and Procedures Form
     - Written in JavaScript using the Ember.js framework.
 
 Secure Data Uploader
-:Lead Developer - Ember.js using JavaScript
+: Lead Developer - Ember.js using JavaScript
+
 Online Giving replacement
 : Primary Developer
 
-- Written in PHP and JavaScript in WSU Foundation’s existing WordPress site.
-- New site is responsive and integrated into main WSU Foundation website.
+    - Written in PHP and JavaScript in WSU Foundation’s existing WordPress site.
+    - New site is responsive and integrated into main WSU Foundation website.
 
 Contact Report & Gift Use Agreement
 : Primary Developer - jQuery Mobile
 
-- Built in Microsoft LightSwitch, backed by ASP.NET Web API written in C#.
-- Replaced the hard-to-use digital forms and improved processes for our users.
-- Touchscreen Vending Machine interface - Primary Developer
-  - WebSocket API for a custom UI to control an attached vending machine.
-  - JavaScript admin page to manage machine settings via touchscreen or mouse.
-- Touchscreen Locker application - Windows CE in C# (Compact .NET)
-  - Improved on-screen keyboard for entering email addresses and other data.
-- Modular Pre-Checkin Validation client – WinForms app in C# (.NET 3.5)
-- Bug System Module for Pre-Checkin client – Primary Developer – C#
-- Log Viewer – Primary Developer – WPF app in C#
+    - Built in Microsoft LightSwitch, backed by ASP.NET Web API written in C#.
+    - Replaced the hard-to-use digital forms and improved processes for our users.
+
+Touchscreen Vending Machine and Locker
+: Primary Developer
+
+    - WebSocket API for a custom UI to control an attached vending machine. - JavaScript admin page to manage machine settings via touchscreen or mouse.
+    - Improved on-screen keyboard for entering email addresses and other data.
+
+Modular Pre-Checkin Validation client
+: WinForms app in C# (.NET 3.5)
+
+Bug System Module for Pre-Checkin client
+: Primary Developer – C#
+
+Log Viewer
+: Primary Developer – WPF app in C#
 
 ## Independent Projects
 
