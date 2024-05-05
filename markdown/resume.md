@@ -15,17 +15,19 @@
 
 - Programming and Scripting Languages: TypeScript/JavaScript, C#, SQL
 - JavaScript Libraries: Angular, NgRx, Jest
-- Primary Programming Software: Visual Studio Code using GitHub
+- Primary Programming Software: Visual Studio Code using GitHub and GitHub Copilot
 - Other Development Tools: Nx, git, Postman
 
 ## Technical Work Experience
 
-**Software Engineer, Cisco Systems, January 2022 - Present**
+**Software Engineer, Cisco Systems**, January 2022 - Present
 
-- Frontend Developer on the Partner Experience Cloud (PX Cloud) project as part of Customer and Partner Experience team
-- Enhanced and improved the Partner Offers section with new features, converted unit tests from Jasmine to Jest, and revised table view with updated version and filters
+- Frontend Angular Developer on the Partner Experience Cloud (PX Cloud) application.
+- Enhanced Partner Offers section with new features, converted unit tests from Jasmine to Jest, and revised table view with updated version and filters.
+- Created Cypress End-to-End tests for the Partner Offers feature.
+-
 
-**Application Developer and Lead, Washington State University Foundation, Aug. 2014 - Jan. 2022**
+**Lead Application Developer, Washington State Univ. Foundation**, August 2014 - January 2022
 
 - Developer and Agile Project Manager for all projects, organizing sprints, performing development tasks and managing communications with stakeholders.
 - Moved to Agile methodology, based on Scrum, with daily standups & sprint planning.
@@ -35,7 +37,7 @@
 - Primary maintainer on legacy web apps, Contact Report & Gift Use Agreement.
 - Aligned projects with best practices, moving to Azure DevOps and git for source control, bug tracking, continuous integration/deployment and code reviews.
 
-**Software Engineer, VendNovation, October 2011 – August 2014**
+**Software Engineer, VendNovation**, October 2011 – August 2014
 
 - Developed custom UI for touchscreen machines opening a new market of devices.
 - Maintained JavaScript admin app to configure machines using touchscreen PC.
@@ -43,21 +45,21 @@
 - Tested HW/SW for 20+ custom machines for highest quality before shipping to client
 - Added semi-automated testing methods to reduce testing time by as much as 75%.
 
-**Build Engineer, Microsoft (Contract), Feb. 2008 – Oct. 2011**
+**Build Engineer, Microsoft (Contract)**, February 2008 – October 2011
 
 - Created tools to automate branch merging and conflicts to save 100+ hours of effort.
 - Development of new tools to support build process in Batch script and PowerShell.
 - Troubleshooting and responding to issues with daily official and developer builds.
 - Ensured successful release of 25+ builds every day using Build.exe and MSBuild
 
-**Systems Admin / Jr. Software Engineer, Saltmine, January 2007 – February 2008**
+**Systems Admin / Jr. Software Engineer, Saltmine** January 2007 – February 2008
 
 - Developed fixes and features for major Web application with C# and SQL Server
 - Worked closely with Lead Developer to ensure consistent code and best practices.
 - Managed duties as System Administrator in addition to development work.
 - Responded to Help Desk requests as tier 1 support for infrastructure.
 
-**Deployment Engineer / Intern, Onyx Software, September 2004 – August 2006**
+**Deployment Engineer / Intern, Onyx Software**, September 2004 – August 2006
 
 - Supervisor of 2 deployment interns for 4 ongoing projects
 - Updated server deployments, oversaw creation of virtual hard drives for distribution.
