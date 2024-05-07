@@ -73,12 +73,14 @@ Workday API Integration
 : Developer / Project Manager
 
 Protocols and Procedures Form
-: Lead Developer / Project Manager
+: Lead Developer / Project Manager - Ember.js using JavaScript
 
-    - Written in JavaScript using the Ember.js framework.
+    - Supporting backend was written in NestJS (Node.js) connected to SQL Server
 
 Secure Data Uploader
 : Lead Developer - Ember.js using JavaScript
+
+    - Supporting backend was written ASP.NET Web API in C# connected to SQL Server
 
 Online Giving replacement
 : Primary Developer
@@ -119,6 +121,9 @@ Log Viewer
   - https://github.com/blairlierman/sacred-text-web
 
 ## Education
+
+**PMI-ACP (Agile Certified Practitioner)**
+Project Management Institute
 
 **Bachelor of Arts - Computer Science**;
 Seattle Pacific University (Seattle, WA)
